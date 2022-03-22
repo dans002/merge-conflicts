@@ -14,3 +14,11 @@
   duration: 2015 &mdash; Present
   url: "https://github.com/education/classroom"
   description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+
+# dans
+- project: dans
+  role: Contributor
+  duration: 2022 &mdash; Present
+  url: "https://github.com/dans002/merge-confilicts"
+  description: my merge confilicts learning .
+  
